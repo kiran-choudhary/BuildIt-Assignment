@@ -16,14 +16,15 @@ Interview assignment submission to BuildIt @ Wipro digital by Kiran Kumar Choudh
 
 # App screenshot:
 
+
 # Test envirnment
 This code has been tested on Android 9.0.
 
 # Future Improvements
-Provide an UI where user can select city.
-Display Wind, Pressure, Rain and Snow data 
-Save data in Sqlite(its not implemented completely)
-Fetch timezone details of selected city/country to show relevant timestring in front of forecast date-time.
+1. Provide an UI where user can select city.
+2. Display Wind, Pressure, Rain and Snow data 
+3. Save data in Sqlite(its not implemented completely)
+4. Fetch timezone details of selected city/country to show relevant timestring in front of forecast date-time.
 
 
 
