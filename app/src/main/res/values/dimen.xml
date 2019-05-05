@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="weather_tupple_margin">10dip</dimen>
+    <dimen name="error_text_size">18dip</dimen>
+
+</resources>
