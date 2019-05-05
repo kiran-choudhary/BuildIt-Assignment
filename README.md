@@ -18,13 +18,13 @@ Interview assignment submission to BuildIt @ Wipro digital by Kiran Kumar Choudh
 ![alt text](https://github.com/kiran-git/BuildIt-Assignment/blob/master/app/ss.png) 
 
 
-# App architecture
+# App architecture:
 ![alt text](https://github.com/kiran-git/BuildIt-Assignment/blob/master/app/Architecture.png) 
 
-# Test envirnment
+# Test envirnment:
 This code has been tested on Android 9.0.
 
-# Future Improvements
+# Future Improvements:
 1. Provide an UI where user can select city.
 2. Display Wind, Pressure, Rain and Snow data 
 3. Save data in Sqlite(its not implemented completely)
